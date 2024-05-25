@@ -1,7 +1,9 @@
 <h1 align="center">Всем привет!👋 </h1>
 
 <div align="center">
-Чтобы быстро связаться со мной, нажмите:
+Чтобы быстро связаться со мной, нажмите: 
+
+###
 
 <a href="https://t.me/alextriano" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
@@ -10,6 +12,7 @@
 </div>
 
 ###
+
 
 Меня зовут Александр, я - начинающий Python-разработчик из Москвы.
 * 📚  Завершил курсы по backend-разработке Яндекс Практикум.
@@ -39,5 +42,15 @@
 
 <div align="center">
 <a href="http://www.github.com/alextriano"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alextriano&stroke=ffffff&background=22272e&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</div>
 
 ###
+
+<div align="center">
+<a href="http://www.github.com/alextriano"><img src="https://github-readme-stats.vercel.app/api?username=alextriano&show_icons=true&hide=stars,contribs&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true&show_icons=true" alt="alextriano's GitHub stats" /></a>
+
+<a href="https://github.com/alextriano" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextriano&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+###
+
