@@ -11,7 +11,8 @@
 
 Меня зовут Александр, я - начинающий Python разработчик из Москвы.
 * 📚  Завершил курсы по backend разработке Яндекс Практикум.
-* 🧠  Сейчас работаю над pet-проектом с помощью FastAPI <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="14" height="14" alt="Fast API" /></a>
+* 🧠  Сейчас работаю над pet-проектом с помощью Django, DRF и PostgreSQL.
+
 
     </a>
 <p align="center">
@@ -25,8 +26,6 @@
 <img width="12" />
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <img width="12" />
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<img width="12" />
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 <img width="12" />
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
@@ -34,21 +33,15 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
-
 ### Статистика:
-
 
 <div align="center">
 <a href="http://www.github.com/alextriano"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alextriano&stroke=ffffff&background=22272e&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ###
+
 <a href="http://www.github.com/alextriano"><img src="https://github-readme-stats.vercel.app/api?username=alextriano&show_icons=true&hide=stars,contribs&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true&show_icons=true" alt="alextriano's GitHub stats" /></a>
 <a href="https://github.com/alextriano" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextriano&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 </div>
 
 ###
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alextriano&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alextriano&theme=dark)
