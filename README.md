@@ -1,9 +1,11 @@
 <h1 align="center">Всем привет!👋 </h1>
 
 <div align="center">
-    <a href="https://t.me/alextriano" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-    </a>
+Чтобы быстро связаться со мной, нажмите:
+
+<a href="https://t.me/alextriano" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+</a>
 
 </div>
 
