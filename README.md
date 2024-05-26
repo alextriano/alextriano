@@ -46,7 +46,10 @@
 </p>
 
 ### Статистика:
+<div id="stat" align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alextriano&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alextriano&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alextriano&theme=dark)
+
+</div>
