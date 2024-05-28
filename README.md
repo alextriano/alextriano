@@ -38,18 +38,24 @@
 <img width="12" />
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 </p>
 
 ### Статистика:
 <div id="stat" align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alextriano&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alextriano&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alextriano&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alextriano&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alextriano&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alextriano&theme=github_dark)
 
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alextriano.alextriano&"  />
 </div>
